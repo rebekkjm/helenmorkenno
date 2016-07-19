@@ -5,10 +5,10 @@ layout: default
 <div class="home">
 
   <ul class="product-list">
-    {% for post in site.posts %}
+    {% for product in site.products %}
       <li>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ product.url | prepend: site.github.url }}">{{ product.title }}</a>
         </h2>
       </li>
     {% endfor %}
