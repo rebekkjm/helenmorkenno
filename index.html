@@ -2,16 +2,17 @@
 layout: default
 ---
 
-<div class="home">
+<div class="content frontpage">
 
-  <ul class="product-list">
-    {% for product in site.products %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ product.url | prepend: site.github.url }}">{{ product.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+    <ul>
+        {% for product in site.products %}
+        <li class="frontpage-product {% cycle 'margin', 'nomargin' %}">
+            <a href="{{ product.url | prepend: site.github.url }}">
+                <img src="{{ product.image | prepend: "/img/" | prepend: site.github.url }}"/>
+                <p class="frontpage-product-title">{{ product.title }}</p>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
 
 </div>

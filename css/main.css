@@ -1,1 +1,66 @@
-.dummyselector { width: 100%; }
+img {
+    display: block;
+    max-width: 100%;
+}
+
+a {
+    color: inherit;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.header {
+    background: lightgrey;
+}
+
+.header-title {
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+.header-tagline {
+}
+
+.header-links {
+    margin-top: 2em;
+    text-align: right;
+}
+
+.main {
+    background: white;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 40em;
+    padding: 1em;
+}
+
+.frontpage-product {
+    float: left;
+    margin-bottom: 2%;
+    position: relative;
+    vertical-align: top;
+    width: 48.5%;
+}
+
+.frontpage-product.margin {
+    margin-right: 3%;
+}
+
+.frontpage-product-title {
+    background: #fff;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    padding: 50% 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    transition: opacity .5s;
+}
+
+.frontpage-product:hover .frontpage-product-title {
+    opacity: .7;
+}

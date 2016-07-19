@@ -1,6 +1,7 @@
 ---
 layout: product
-title:  "Lamp2"
+title:  "Lamp 2"
+image: "lamp2.jpeg"
 ---
 
 Details about lamp 2
