@@ -10,7 +10,6 @@ title: Helen Mørken Porcelain
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
     Helen Mørken Porcelain
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://helenmorken.no"
 exclude: [vendor]
 
