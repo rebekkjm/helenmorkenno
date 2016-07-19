@@ -7,7 +7,7 @@ layout: default
     <ul class="clearfix">
         {% for product in site.products %}
         <li class="frontpage-product {% cycle 'margin', 'nomargin' %}">
-            <a href="{{ product.url | prepend: site.github.url }}">
+            <a class="frontpage-product-link" href="{{ product.url | prepend: site.github.url }}">
                 <img src="{{ product.image | prepend: "/img/" | prepend: site.github.url }}"/>
                 <p class="frontpage-product-title">{{ product.title }}</p>
             </a>
