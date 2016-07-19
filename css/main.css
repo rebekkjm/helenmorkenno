@@ -52,6 +52,11 @@ a {
     text-align: right;
 }
 
+.header-links li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
 .main {
     background: #FFFFFF;
 }
