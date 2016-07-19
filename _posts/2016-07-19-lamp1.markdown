@@ -1,0 +1,7 @@
+---
+layout: product
+title:  "Lamp1"
+permalink: "lamp1"
+---
+
+Details about lamp 1
