@@ -4,7 +4,7 @@ layout: default
 
 <div class="content frontpage">
 
-    <ul>
+    <ul class="clearfix">
         {% for product in site.products %}
         <li class="frontpage-product {% cycle 'margin', 'nomargin' %}">
             <a href="{{ product.url | prepend: site.github.url }}">

@@ -1,3 +1,23 @@
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+
+body {
+    font-family: 'Raleway',Helvetica Neue,Helvetica,sans-serif;
+    color: #26292A;
+}
+
 img {
     display: block;
     max-width: 100%;
@@ -10,7 +30,7 @@ a {
 }
 
 .header {
-    background: lightgrey;
+    background: #F6F6F6;
 }
 
 .header-title {
@@ -27,7 +47,7 @@ a {
 }
 
 .main {
-    background: white;
+    background: #FFFFFF;
 }
 
 .content {
@@ -49,8 +69,9 @@ a {
 }
 
 .frontpage-product-title {
-    background: #fff;
+    background: #14140E;
     bottom: 0;
+    color: #FFFFFF;
     left: 0;
     opacity: 0;
     padding: 50% 0;
@@ -62,5 +83,5 @@ a {
 }
 
 .frontpage-product:hover .frontpage-product-title {
-    opacity: .7;
+    opacity: .5;
 }
