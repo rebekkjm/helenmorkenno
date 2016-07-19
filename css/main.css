@@ -72,19 +72,25 @@ a {
     display: block;
     text-decoration: underline;
 }
-
 .frontpage-product-title {
     background: #14140E;
-    bottom: 0;
     color: #FFFFFF;
     left: 0;
-    opacity: 0;
-    padding: 50% 0;
+    opacity: .5;
+    padding: 1em;
     position: absolute;
     right: 0;
     text-align: center;
     top: 0;
-    transition: opacity .5s;
+}
+
+@media (min-width: 34em) {
+    .frontpage-product-title {
+        bottom: 0;
+        opacity: 0;
+        padding: 50% 0;
+        transition: opacity .5s;
+    }
 }
 
 .frontpage-product:hover .frontpage-product-title {
