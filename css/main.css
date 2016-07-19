@@ -33,12 +33,18 @@ a {
     background: #F6F6F6;
 }
 
+.header-top {
+    display: inline-block;
+}
+
 .header-title {
     font-size: 2em;
+    text-align: right;
     text-transform: uppercase;
 }
 
 .header-tagline {
+    text-align: right;
 }
 
 .header-links {
