@@ -5,11 +5,12 @@ layout: default
 <div class="content frontpage">
 
     <ul class="clearfix">
-        {% for product in site.products %}
+        {% assign products = site.products | sort: 'order' %}
+        {% for product in products %}
         <li class="frontpage-product {% cycle 'margin', 'nomargin' %}">
             <a class="frontpage-product-link" href="{{ product.url | prepend: site.github.url }}">
                 <img src="{{ product.image | prepend: "/img/" | prepend: site.github.url }}"/>
-                <p class="frontpage-product-title">{{ product.title }}</p>
+                <p class="frontpage-product-title">{{ product.title }}, {{ product.order }}</p>
             </a>
         </li>
         {% endfor %}
