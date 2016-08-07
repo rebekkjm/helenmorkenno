@@ -90,6 +90,7 @@ a {
 .frontpage-product-title {
     background: #14140E;
     color: #FFFFFF;
+    font-size: 2em;
     left: 0;
     opacity: .5;
     padding: 1em;
@@ -109,5 +110,20 @@ a {
 }
 
 .frontpage-product:hover .frontpage-product-title {
-    opacity: .5;
+    opacity: .7;
+}
+
+.product-title {
+    font-size: 2em;
+    margin-bottom: .5em;
+}
+
+.text-content p {
+    margin-bottom: 1em;
+    line-height: 1.4em;
+}
+
+.text-content img {
+    margin: 4em auto 0;
+    width: 70%;
 }
