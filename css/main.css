@@ -90,10 +90,16 @@ h3 {
 
 .content {
     margin: 0 auto;
-    max-width: 40em;
     padding: 1em;
 }
 
+.header .content {
+    max-width: 48em;
+}
+
+.main .content {
+    max-width: 40em;
+}
 
 .frontpage-product {
     margin-bottom: 2%;
