@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Bemused"
-order: 9
+order: 8
 image: "Bemused1.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Keeping up appearances"
-order: 7
+order: 6
 image: "Keeping_up_appearances1.jpg"
 ---
 
