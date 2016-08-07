@@ -6,13 +6,29 @@ layout: default
 
     <ul class="clearfix">
         {% assign products = site.products | sort: 'order' %}
+        {% assign count = 1 %}
         {% for product in products %}
-        <li class="frontpage-product {% cycle 'margin', 'nomargin' %}">
-            <a class="frontpage-product-link" href="{{ product.url | prepend: site.github.url }}">
-                <img src="{{ product.image | prepend: "/img/" | prepend: site.github.url }}"/>
-                <p class="frontpage-product-title">{{ product.title }}, {{ product.order }}</p>
-            </a>
-        </li>
+
+            {% if product.fullwidth != true %}
+                {% assign count = count | plus: 1 %}
+                {% assign width = '' %}
+            {% else %}
+                {% assign width = 'fullwidth' %}
+            {% endif %}
+
+            {% assign mod2 = count | modulo: 2 %}
+            {% if mod2 == 0 %}
+                {% assign margin = 'margin' %}
+            {% else %}
+                {% assign margin = '' %}
+            {% endif %}
+
+            <li class="frontpage-product {{ margin }} {{ width }}">
+                <a class="frontpage-product-link" href="{{ product.url | prepend: site.github.url }}">
+                    <img src="{{ product.image | prepend: "/img/" | prepend: site.github.url }}"/>
+                    <p class="frontpage-product-title">{{ product.title }}</p>
+                </a>
+            </li>
         {% endfor %}
     </ul>
 

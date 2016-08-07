@@ -79,6 +79,10 @@ a {
     margin-right: 3%;
 }
 
+.frontpage-product.fullwidth {
+    width: 100%;
+}
+
 .frontpage-product-link {
     display: block;
     text-decoration: underline;
