@@ -17,6 +17,7 @@ Studio:
 - Olsgård Atelierfelleskap, Gauterødveien 2, 3154 Tønsberg, Norway
 - Morkelveien 6, 3157 Barkåker, Norway
 
+
 Sales – the following galleries stock my work:
 
 - Kunsthåndverkere i Kongensgate, Kongensgate 2, Oslo
