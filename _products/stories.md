@@ -5,7 +5,7 @@ order: 10
 image: "Stories1.jpg"
 ---
 
-Stories lorem ipsum
+Each picture tells a story. Dimensions 30 x 30 cm.
 
 ![Sleep eluded me: Backlit image of person gazing into horizon in the wind]({{ site.github.url }}/img/Stories1.jpg)
 
