@@ -16,6 +16,7 @@ E14 bulb socket, 3 m white textile flex with switch and plug. Approximate size 1
 
 ![Cone shaped pendant light with daisy pattern]({{ site.github.url }}/img/Cones4.jpg)
 
+«Equilibrium»
 ![Group of four cone shaped pendant lights]({{ site.github.url }}/img/Cones5.jpg)
 
 ![Group of cone pendants above a dining table]({{ site.github.url }}/img/Cones6.jpg)
