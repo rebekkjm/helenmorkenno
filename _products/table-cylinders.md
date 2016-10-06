@@ -4,12 +4,9 @@ title:  "Table Cylinders"
 order: 11
 image: "Table_cylinders1.jpg"
 ---
-
-Table cylinders lorem ipsum
+Columns of light with impressed or embossed designs. Porcelain and black stoneware. E14 bulb socket, 1.5 m textile covered flex with switch and plug.
 
 ![Cylinder shaped table lamp with abstract pattern of dots and lines]({{ site.github.url }}/img/Table_cylinders1.jpg)
-
-![Group of three cylinder shaped table lamps with abstract birch pattern]({{ site.github.url }}/img/Table_cylinders2.jpg)
 
 ![Cylinder shaped table lamp with indian block printed paisley pattern]({{ site.github.url }}/img/Table_cylinders3.jpg)
 
