@@ -1,3 +1,9 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
 Selected exhibitions
 
 2016: Norway Designs NÅ Vol. 3, Oslo
