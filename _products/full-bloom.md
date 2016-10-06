@@ -5,9 +5,11 @@ order: 2
 image: "Full_bloom1.jpg"
 ---
 
-Full Bloom lorem ipsum
+A hundred porcelain petals forming a glowing bud and casting the shadow of an open flower.
 
 ![Large chandelier composed of porcelain petals]({{ site.github.url }}/img/Full_bloom1.jpg)
+
+I make «Full Bloom» to order to be the focal point of your room. This lamp also works well in a group filling a much bigger interior space. Example dimensions: 60 cm diameter, 80 cm height.
 
 ![Large chandelier composed of porcelain petals lit in dark room]({{ site.github.url }}/img/Full_bloom2.jpg)
 
