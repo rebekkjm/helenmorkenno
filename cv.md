@@ -33,13 +33,12 @@ Regular joint exhibitions at Kunstsentre, kunstforeninger and galleries.
 
 **2015** Statens utstillingsstipend  
 **2013** Statens diversestipend for nyutdannede kunstnere  
-
+  
 ### Organisations
 
 Member of Norske Kunsthåndverkere, NK  
-Member of Kunsthåndverkerene i Kongensgate, Oslo
-
-
+Member of Kunsthåndverkerene i Kongensgate, Oslo  
+  
 ### Education
 
 **2009-2012** Bath Spa University, England: MA 3D Design  
