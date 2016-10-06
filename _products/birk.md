@@ -1,8 +1,8 @@
 ---
 layout: product
 title:  "Birk"
-order: 9
-image: "Table_cylinders2"
+order: 20
+image: "Table_cylinders2.jpg"
 ---
 
 ![Group of three cylinder shaped table lamps with abstract birch pattern]({{ site.github.url }}/img/Table_cylinders2.jpg)
