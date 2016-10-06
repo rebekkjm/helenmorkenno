@@ -6,17 +6,17 @@ permalink: /cv/
 
 ### Selected exhibitions
 
-- **2016** Norway Designs NÅ Vol. 3, Oslo
-- **2015** Vevringutstillinga 2015, Naustdal (invited exhibitor)
-- **2015** The Ceramic Lamp, Carouge, Sveits
-- **2014** Into Beyond, Galleri Clayground, Tønsberg (solo exhibition)
-- **2014** Dreamscapes, Kongensgt. 2, Oslo (solo exhibition)
-- **2013** “1001 kopp”, Galleri Festiviteten, Eidsvoll Verk
-- **2012** Gjennomskinnelig, Galleri Smalgangen, Åsgårdstrand (solo exhibition)
-- **2012** New Designers, Earls Court, London SW5
-- **2011** LUX - A Vision of Light, Bath, England
-- **2008** Biennalen for Kunsthåndverk, Norske Kunsthåndverkere Sørøst-Norge
-- **2007** Nine on line, Atrium Gallery, Glasgow, UK
+**2016** Norway Designs NÅ Vol. 3, Oslo  
+**2015** Vevringutstillinga 2015, Naustdal (invited exhibitor)  
+**2015** The Ceramic Lamp, Carouge, Sveits  
+**2014** Into Beyond, Galleri Clayground, Tønsberg (solo exhibition)  
+**2014** Dreamscapes, Kongensgt. 2, Oslo (solo exhibition)  
+**2013** “1001 kopp”, Galleri Festiviteten, Eidsvoll Verk  
+**2012** Gjennomskinnelig, Galleri Smalgangen, Åsgårdstrand (solo exhibition)  
+**2012** New Designers, Earls Court, London SW5  
+**2011** LUX - A Vision of Light, Bath, England  
+**2008** Biennalen for Kunsthåndverk, Norske Kunsthåndverkere Sørøst-Norge  
+**2007** Nine on line, Atrium Gallery, Glasgow, UK  
 
 Regular joint exhibitions at Kunstsentre, kunstforeninger and galleries.
 
