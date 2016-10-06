@@ -9,6 +9,7 @@ I work primarily with thin porcelain, often combined with light. My strongest in
 Porcelain is a demanding material to work with, but the resulting whiteness, translucency and strength (despite its fragile appearance) are worth the challenge. I usually prefer a matt unglazed surface, but since the clay is fully vitrified and non-porous, every piece is totally washable. All pieces are completely handmade and can be adjusted to specific requests. My work fits easily into a wide range of interiors, adding a focus of interest to any space.
 I use only CE-approved light fittings and flexes.
 
+![Helen Mørken]({{ site.github.url }}/img/about_bw.jpg)
 ### Exhibitions
 
 **2015** "La Lampe Céramique" (juried competition), Carouge, Switzerland
