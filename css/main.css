@@ -58,6 +58,7 @@ h3 {
 }
 .header {
     background: #F6F6F6;
+    padding-top: 1.2em;
 }
 
 .header-top {
@@ -75,7 +76,8 @@ h3 {
 }
 
 .header-links {
-    margin-top: 2em;
+    margin-top: 1.5em;
+    margin-right: 2em;
     text-align: right;
 }
 
@@ -94,7 +96,7 @@ h3 {
 }
 
 .header .content {
-    max-width: 48em;
+    max-width: 52em;
 }
 
 .main .content {
@@ -129,7 +131,7 @@ h3 {
 .frontpage-product-title {
     background: #14140E;
     color: #FFFFFF;
-    font-size: 2em;
+    font-size: 1.8em;
     left: 0;
     opacity: 0;
     position: absolute;
