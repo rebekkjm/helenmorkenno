@@ -131,20 +131,24 @@ h3 {
     color: #FFFFFF;
     font-size: 2em;
     left: 0;
-    opacity: .5;
-    padding: 1em;
+    opacity: 0;
     position: absolute;
     right: 0;
     text-align: center;
+    transition: opacity .5s;
     top: 0;
 }
 
 @media (min-width: 30em) {
     .frontpage-product-title {
         bottom: 0;
-        opacity: 0;
-        padding: 50% 0;
-        transition: opacity .5s;
+    }
+
+    .frontpage-product-title-text {
+        display: block;
+        position: absolute;
+        top: 35%;
+        width: 100%;
     }
 }
 
