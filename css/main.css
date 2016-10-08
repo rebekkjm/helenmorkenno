@@ -43,8 +43,9 @@ h2 {
 }
 
 h3 {
-    font-size: 1.5em;
-    margin-bottom: 1em;
+    font-size: 1.2em;
+    margin: 1.8em 0 .8em;
+    text-transform: uppercase;
 }
 
 .text-content p {
@@ -88,6 +89,7 @@ h3 {
 
 .main {
     background: #FFFFFF;
+    padding-top: 2em;
 }
 
 .content {
@@ -158,3 +160,5 @@ h3 {
     opacity: .7;
 }
 
+.product {
+}
