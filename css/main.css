@@ -37,6 +37,10 @@ a {
     text-decoration: none;
 }
 
+.text-content a {
+    text-decoration: underline;
+}
+
 h2 {
     font-size: 2em;
     margin-bottom: .5em;
