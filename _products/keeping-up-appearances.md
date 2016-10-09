@@ -1,7 +1,7 @@
 ---
 layout: product
-title:  "Keeping up appearances"
-order: 6
+title:  "Glass chandeliers"
+order: 7
 image: "Keeping_up_appearances1.jpg"
 ---
 
