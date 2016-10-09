@@ -2,6 +2,7 @@
 layout: product
 title:  "Bemused"
 order: 8
+fullwidth: true
 image: "Bemused1.jpg"
 ---
 
