@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Connect"
-order: 5
+order: 4
 image: "Circle_of_light.jpg"
 ---
 
