@@ -20,8 +20,8 @@ Decorative lighting can transform a space. I love to create for specific rooms, 
 * Olsgård Atelierfelleskap, Gauterødveien 2, 3154 Tønsberg, Norway  
 * Morkelveien 6, 3157 Barkåker, Norway  
 
-**Sales**
-The following galleries stock my work:
+**Sales**  
+The following galleries stock my work:  
 * Kunsthåndverkere i Kongensgate, Kongensgate 2, Oslo  
 * Buskerud Kunstsenter, Union Scene, Grønland 60, Drammen  
 * Østfold Kunstsenter, Fergestedsveien 5b, 1606 Fredrikstad  
