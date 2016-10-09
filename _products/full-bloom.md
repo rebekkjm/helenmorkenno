@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Full Bloom"
-order: 3
+order: 2
 image: "Full_bloom1.jpg"
 ---
 
