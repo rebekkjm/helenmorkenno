@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Bowls"
-order: 14
+order: 15
 image: "Bowls1.jpg"
 ---
 

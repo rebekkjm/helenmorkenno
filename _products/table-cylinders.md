@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Table Cylinders"
-order: 11
+order: 13
 image: "Table_cylinders1.jpg"
 ---
 Columns of light with impressed or embossed designs. Porcelain and black stoneware. E14 bulb socket, 1.5 m textile covered flex with switch and plug.
