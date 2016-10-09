@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Stories"
-order: 10
+order: 11
 image: "Stories1.jpg"
 ---
 
