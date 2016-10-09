@@ -7,7 +7,7 @@ image: "Cones1.jpg"
 
 A cone is elegant classic shape that makes a beautiful hanging lamp. I make single lamps with impressed or embossed designs, or I can design a lamp with multiple cones to suit your specific interior.
 
-E14 bulb socket, 3 m white textile flex with switch and plug. Approximate size 15 - 25 cm.
+*E14 bulb socket, 3 m white textile flex with switch and plug. 15 - 25 cm.*
 
 ![Cone shaped pendant light with abstract floral pattern]({{ site.github.url }}/img/Cones1.jpg)
 
