@@ -18,5 +18,7 @@ This is a story about life. Imagine each patch is a personal experience. Patches
 
 ![Perforated porcelain globe shaped table lamp]({{ site.github.url }}/img/Table_globes2.jpg)
 
+*Porcelain and black stoneware. 13 cm diameter.*
+
 **Globe**  
-Porcelain and black stoneware; 15 cm or 20 cm diameter; 1.5 m off-white or black and white flex with switch and plug; E14 bulb socket.
+*Porcelain and black stoneware; 15 cm or 20 cm diameter; 1.5 m off-white or black and white flex with switch and plug; E14 bulb socket.*
