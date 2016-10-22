@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Ripple"
-order: 9
+order: 11
 fullwidth: true
 image: "Ripple.jpg"
 ---
