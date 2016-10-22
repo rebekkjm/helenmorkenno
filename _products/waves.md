@@ -2,10 +2,10 @@
 layout: product
 title:  "Waves"
 order: 16
-image: "waves.jpg"
+image: "smoke.jpg"
 ---
 
-![Backlit image consisting of three windows with abstract wave shapes spanning across]({{ site.github.url }}/img/Waves.jpg)
+![Backlit image consisting of three windows with abstract wave shapes spanning across]({{ site.github.url }}/img/smoke.jpg)
 
 **Smoke on the water**  
 *55 x 36 cm*
