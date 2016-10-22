@@ -2,6 +2,7 @@
 layout: product
 title:  "Bowls"
 order: 15
+fullwidth: true
 image: "Bowls1.jpg"
 ---
 
