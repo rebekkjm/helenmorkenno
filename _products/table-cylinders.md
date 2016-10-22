@@ -1,6 +1,6 @@
 ---
 layout: product
-title:  "Table Cylinders"
+title:  "Table cylinders"
 order: 13
 image: "Table_cylinders1.jpg"
 ---
