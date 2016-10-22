@@ -2,7 +2,6 @@
 layout: product
 title:  "Castles in the Air"
 order: 14
-fullwidth: true
 image: "Castles_in_the_air.jpg"
 ---
 
