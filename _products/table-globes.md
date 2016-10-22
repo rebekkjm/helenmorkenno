@@ -1,6 +1,6 @@
 ---
 layout: product
-title:  "Table Globes"
+title:  "Table globes"
 order: 5
 fullwidth: true
 image: "Table_globes1.jpg"
