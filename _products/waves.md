@@ -2,7 +2,7 @@
 layout: product
 title:  "Waves"
 order: 16
-image: "Waves.jpg"
+image: "waves.jpg"
 ---
 
 ![Backlit image consisting of three windows with abstract wave shapes spanning across]({{ site.github.url }}/img/Waves.jpg)
