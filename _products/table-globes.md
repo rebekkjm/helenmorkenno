@@ -12,7 +12,8 @@ Magical balls of light…
 
 **Identity**  
 This is a story about life. Imagine each patch is a personal experience. Patches overlap in a way that is unique to you, there are holes and rough edges, vulnerable and naked but lit from within – your story.
-13 cm diameter.
+
+*13 cm diameter.*
 
 ![Perforated porcelain globe shaped table lamp]({{ site.github.url }}/img/Table_globes1.jpg)
 
