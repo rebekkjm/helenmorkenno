@@ -2,6 +2,7 @@
 layout: product
 title:  "Ripple"
 order: 16
+fullwidth: true
 image: "Ripple.jpg"
 ---
 
