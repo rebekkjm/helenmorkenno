@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Waves"
-order: 16
+order: 12
 image: "smoke.jpg"
 ---
 
