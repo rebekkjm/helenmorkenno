@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Mugs and cups"
-order: 9
+order: 17
 image: "Mugs1.jpg"
 ---
 
