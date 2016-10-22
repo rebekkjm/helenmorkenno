@@ -11,8 +11,7 @@ Magical balls of light…
 ![Porcelain globe shaped table lamp with tranclucent layers]({{ site.github.url }}/img/Table_globes3.jpg)
 
 **Identity**  
-This is a story about life. Imagine each patch is a personal experience. Patches overlap in a way that is unique to you, there are holes and rough edges, vulnerable and naked but lit from within – your story.
-
+This is a story about life. Imagine each patch is a personal experience. Patches overlap in a way that is unique to you, there are holes and rough edges, vulnerable and naked but lit from within – your story.  
 *Porcelain and black stoneware. 13 cm diameter.*
 
 ![Perforated porcelain globe shaped table lamp]({{ site.github.url }}/img/Table_globes1.jpg)
