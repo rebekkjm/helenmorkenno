@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Waves"
-order: 17
+order: 16
 image: "Waves.jpg"
 ---
 
