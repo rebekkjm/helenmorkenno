@@ -7,6 +7,9 @@ collections:
     products:
         output: true
         permalink: /:path/
+    projects:
+        output: true
+        permalink: /projects/:path/
 
 # Build settings
 markdown: kramdown
