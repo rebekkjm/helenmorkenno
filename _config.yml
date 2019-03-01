@@ -7,9 +7,9 @@ collections:
     products:
         output: true
         permalink: /:path/
-    projects:
+    publicart:
         output: true
-        permalink: /projects/:path/
+        permalink: /publicart/:path/
 
 # Build settings
 markdown: kramdown
