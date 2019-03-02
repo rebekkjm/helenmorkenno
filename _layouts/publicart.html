@@ -4,25 +4,15 @@ layout: default
 
 <div class="content frontpage">
 
-  <ul class="clearfix">
+  <ul class="image-links">
       {% assign projects = site.publicart | sort: 'order' %}
-      {% assign count = 0 %}
       {% for project in projects %}
 
-          {% assign mod2 = count | modulo: 2 %}
-          {% if mod2 == 0 %}
-              {% assign margin = 'margin' %}
-          {% else %}
-              {% assign margin = '' %}
-          {% endif %}
-
-          {% assign count = count | plus: 1 %}
-
-          <li class="frontpage-product {{ margin }} ">
-              <a class="frontpage-product-link" href="{{ project.url | prepend: site.github.url }}">
+          <li class="image-link fullwidth">
+              <a href="{{ project.url | prepend: site.github.url }}">
                   <img src="{{ project.image | prepend: "/img/" | prepend: site.github.url }}"/>
-                  <p class="frontpage-product-title">
-                      <span class="frontpage-product-title-text">{{ project.title }}</span>
+                  <p class="image-link-title">
+                      <span class="image-link-title-text">{{ project.title }}</span>
                   </p>
               </a>
           </li>
