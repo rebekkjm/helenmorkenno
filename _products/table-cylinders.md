@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Table cylinders"
-order: 14
+order: 10
 image: "Table_cylinders1.jpg"
 ---
 Columns of light with impressed or embossed designs.  
