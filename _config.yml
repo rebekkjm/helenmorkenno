@@ -10,6 +10,14 @@ collections:
     publicart:
         output: true
         permalink: /publicart/:path/
-
+navigation:
+    - title: Products
+      url: /
+    - title: Public Art
+      url: /publicart/
+    - title: About
+      url: /about/
+    - title: Contact
+      url: /contact-and-sales/
 # Build settings
 markdown: kramdown

@@ -7,18 +7,15 @@
             <p class="header-tagline">Hand-crafted porcelain lighting and ceramics</p>
         </div>
         <ul class="header-links">
+            {% for item in site.navigation %}
+                {% assign class = nil %}
+                {% if page.url == item.url %}
+                    {% assign class = 'active' %}
+                {% endif %}
             <li>
-                <a href="{{ "/" | prepend: site.github.url }}">Products</a>
+                <a class="{{ class }}" href="{{ item.url }}">{{ item.title }}</a>
             </li>
-            <li>
-                <a href="{{ "/publicart" | prepend: site.github.url }}">Public art</a>
-            </li>
-            <li>
-                <a href="{{ "/about" | prepend: site.github.url }}">About</a>
-            </li>
-            <li>
-                <a href="{{ "/contact-and-sales" | prepend: site.github.url }}">Contact</a>
-            </li>
+            {% endfor %}
         </ul>
     </div>
 </header>

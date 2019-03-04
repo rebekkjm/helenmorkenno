@@ -65,6 +65,10 @@ h3 {
     max-width: 21em;
 }
 
+.header-links .active {
+    border-bottom: 2px solid #ca8b8d;
+}
+
 .main {
     background: #FFFFFF;
     padding-top: 2em;
