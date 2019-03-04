@@ -5,7 +5,7 @@ order: 1
 image: "legevakten1.jpg"
 ---
 
-Landscapes of Vestfold  
+_Landscapes of Vestfold_.  
 Three boxes filled with broken pieces of household glass. Installed in the wall between the entrance and the A&E waiting room, Kjelle Helsehus, Tønsberg, 2017.  
 Dimensions: each 160 x 40 x 10 cm  
 
