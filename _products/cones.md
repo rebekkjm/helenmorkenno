@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  "Cones"
-order: 7
+order: 8
 image: "Cones1.jpg"
 ---
 
