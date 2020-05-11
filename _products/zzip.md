@@ -15,7 +15,7 @@ A glowing globe of light, a fascinating pattern of shadows, a coloured flex, and
 
 *Standard flex and zip colours: red / black and white / black / white / green. Other colours may be possible on request.*
 
-*Price NOK 2200 – 2800,- dependent on size*
+*Price NOK 2200 – 2800 dependent on size*
  
 ![Perforated porcelain globe pendant with black and white zip]({{ site.github.url }}/img/Zzip2.jpg)
 
