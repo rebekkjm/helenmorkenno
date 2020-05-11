@@ -7,6 +7,7 @@ image: "Stories1.jpg"
 
 Each picture tells a story.  
 *Size with frame 30 x 30 cm*
+*Price NOK 3000*
 
 ![Sleep eluded me: Backlit image of person gazing into horizon in the wind]({{ site.github.url }}/img/Stories1.jpg)
 
