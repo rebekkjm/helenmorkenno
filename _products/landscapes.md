@@ -26,6 +26,7 @@ A magical world in a box  – you make the story.
 ![Backlit porcelain birch tree forrest diorama]({{ site.github.url }}/img/Landscapes5.jpg)
 
 **Can't see the wood for the trees** *(30 x 20 x 6 cm) Porcelain, plywood, LED*
+
 *Price NOK 6000*
 
 ![Backlit porcelain diorama covered with petals and tiny ants]({{ site.github.url }}/img/blue_ants.jpg)
