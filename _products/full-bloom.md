@@ -11,7 +11,7 @@ I make *Full Bloom* to order to be the focal point of your room. This lamp also 
 
 *Example dimensions: 60 cm diameter, 80 cm height*
 
-*Price approx. NOK 12000 – 15000,- dependent on size*
+*Price approx. NOK 12000 – 15000 dependent on size*
 
 ![Large chandelier composed of porcelain petals]({{ site.github.url }}/img/Full_bloom1.jpg)
 
