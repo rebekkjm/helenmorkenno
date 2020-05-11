@@ -9,6 +9,7 @@ A glittering chandelier usually tells a story of status and prosperity. Where yo
 
 Made to order, I make this piece to suit your space.  
 *Example dimensions: approximately 60 cm x 80 cm*
+
 *Price approx. NOK 15000 dependent on size*
 
 ![Large chandelier made of broken glass]({{ site.github.url }}/img/Keeping_up_appearances1.jpg)
