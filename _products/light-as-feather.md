@@ -9,7 +9,7 @@ image: "feather_chandelier2.jpg"
 Approx. 150 porcelain “feathers” suspended from a clear perspex circle.
 
 Made to order, the size depends on the room.
-*Example shown is approx. 60 x 40 cm.*
+*Example dimensions: approx. 60 x 40 cm.*
 *Price NOK 15000*
 
 ![Chandelier made of tranclucent porcelain feathers]({{ site.github.url }}/img/feather_chandelier2.jpg)
