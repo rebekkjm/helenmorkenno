@@ -5,6 +5,8 @@ order: 13
 image: "smoke.jpg"
 ---
 
+Framed, porcelain pictures with integrated LED backlighting.
+
 ![Backlit image consisting of three windows with abstract wave shapes spanning across]({{ site.github.url }}/img/smoke.jpg)
 
 **Smoke on the water** *55 x 36 cm, price NOK 4000*
