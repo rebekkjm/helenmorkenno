@@ -3,11 +3,11 @@ layout: product
 title:  "Bowls"
 order: 17
 fullwidth: true
-image: "Bowls1.jpg"
+image: "Bowls1new.jpg"
 ---
 
 
-![Small porcelain bowl with gold details]({{ site.github.url }}/img/Bowls1.jpg)
+![Small porcelain bowl with gold details]({{ site.github.url }}/img/Bowls1new.jpg)
 
 **Drip** 
 
