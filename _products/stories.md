@@ -5,7 +5,7 @@ order: 10
 image: "Stories1.jpg"
 ---
 
-Each picture tells a story.  
+Framed, porcelain pictures with integrated LED backlighting. Each picture tells a story.  
 *Size with frame 30 x 30 cm*
 
 *Price NOK 3000*
