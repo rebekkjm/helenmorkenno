@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 ### Selected exhibitions
-**2020** Lys, Kunsthåndverkerne i Kongensgate, Oslo 
+**2020** Lys, Kunsthåndverkerne i Kongensgate, Oslo  
 **2019** Østlandsutstillingen 2019, Kunstforeningen Verdens Ende, Tjøme  
 **2019** Bravo - 40 years, Kunsthåndverkerene i Kongensgate, Oslo  
 **2018** Belyst, Kunsthåndverkerene i Kongensgate, Oslo  
