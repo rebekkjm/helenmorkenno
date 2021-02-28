@@ -10,6 +10,8 @@ Columns of light with impressed or embossed designs.
 
 *Price NOK 1950.*
 
+![Five cylinder shaped table lamps with abstract patterns]({{ site.github.url }}/img/Table_cylinders5.jpg)
+
 ![Cylinder shaped table lamp with abstract pattern of dots and lines]({{ site.github.url }}/img/Table_cylinders1.jpg)
 
 ![Cylinder shaped table lamp with indian block printed paisley pattern]({{ site.github.url }}/img/Table_cylinders3.jpg)
