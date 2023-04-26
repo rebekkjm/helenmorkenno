@@ -22,6 +22,7 @@ Morkelveien 6, 3157 Barkåker, Norway
 
 **Sales**  
 The following galleries stock some of my work:  
+
 * Bærum Kunsthåndverk, Verksgata 11, Bærums Verk
 * Buskerud Kunstsenter, Union Scene, Grønland 60, Drammen
 * Østfold Kunstsenter, Fergestedsveien 5b, 1606 Fredrikstad
