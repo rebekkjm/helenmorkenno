@@ -33,6 +33,7 @@ The following galleries stock some of my work:
 * Hå Gamle Prestegård, Jæren
 
 
+
 <a href="/cv" class="cv-link">My CV</a>
 
 I work primarily with thin porcelain, often combined with light. Much of my work contains contrasts and layers of meaning and I often incorporate hidden details or unexpected elements in my work so there is more to discover than first meets the eye.
