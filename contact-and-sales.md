@@ -21,8 +21,8 @@ Olsgård Atelierfelleskap, Gauterødveien 2, 3154 Tønsberg, Norway
 Morkelveien 6, 3157 Barkåker, Norway  
 
 **Sales**  
-The following galleries stock my work:  
-* Kunsthåndverkere i Kongensgate, Kongensgate 2, Oslo
+The following galleries stock some of my work:  
+* Bærum Kunsthåndverk, Verksgata 11, Bærums Verk
 * Buskerud Kunstsenter, Union Scene, Grønland 60, Drammen
 * Østfold Kunstsenter, Fergestedsveien 5b, 1606 Fredrikstad
 * Vestfold Kunstsenter, Øvre Langgate 28, Tønsberg
