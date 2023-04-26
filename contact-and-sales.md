@@ -6,23 +6,22 @@ permalink: /contact-and-sales/
 
 Decorative lighting can transform a space. I love to create for specific rooms, so please don’t hesitate to contact me if you have an idea or would like to commission something special.
 
-**Follow me**  
+<h3>Follow me</h3>  
 <a href="https://www.facebook.com/helenmorkenporcelain/" target="_blank">Facebook</a>  
 <a href="https://www.instagram.com/helenmorkenporcelain/" target="_blank">Instagram</a>  
 
-**Email**  
+<h3>Email</h3>   
 [helen.morken@me.com](mailto:helen.morken@me.com)  
 
-**Phone**  
+<h3>Phone</h3>    
 [+47 934 40 309](tel:+4793440309)  
 
-**Studios**  
+<h3>Studios</h3>    
 Olsgård Atelierfelleskap, Gauterødveien 2, 3154 Tønsberg, Norway  
 Morkelveien 6, 3157 Barkåker, Norway  
 
 <h3>Sales</h3>  
 The following galleries stock some of my work:  
-
 * Bærum Kunsthåndverk, Verksgata 11, Bærums Verk
 * Buskerud Kunstsenter, Union Scene, Grønland 60, Drammen
 * Østfold Kunstsenter, Fergestedsveien 5b, 1606 Fredrikstad
