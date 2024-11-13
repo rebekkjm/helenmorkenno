@@ -7,6 +7,9 @@ collections:
     products:
         output: true
         permalink: /:path/
+    sculpture:
+        output: true
+        permalink: /sculpture/:path/
     publicart:
         output: true
         permalink: /publicart/:path/
