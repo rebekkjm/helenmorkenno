@@ -17,7 +17,5 @@ navigation:
       url: /publicart/
     - title: About
       url: /about/
-    - title: Contact
-      url: /contact-and-sales/
 # Build settings
 markdown: kramdown
