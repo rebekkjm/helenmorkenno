@@ -13,6 +13,8 @@ collections:
 navigation:
     - title: Products
       url: /
+    - title: Sculpture
+      url: /sculpture/
     - title: Public Art
       url: /publicart/
     - title: About
