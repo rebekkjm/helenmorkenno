@@ -1,5 +1,24 @@
 ---
-layout: publicart
+layout: default
 title: Public art
 permalink: /publicart/
 ---
+
+<div class="content">
+
+  <ul class="image-links">
+      {% assign projects = site.publicart | sort: 'order' %}
+      {% for project in projects %}
+
+          <li class="image-link fullwidth">
+              <a href="{{ project.url | prepend: site.github.url }}">
+                  <img src="{{ project.image | prepend: "/img/" | prepend: site.github.url }}"/>
+                  <p class="image-link-title">
+                      <span class="image-link-title-text">{{ project.title }}</span>
+                  </p>
+              </a>
+          </li>
+      {% endfor %}
+  </ul>
+
+</div>
