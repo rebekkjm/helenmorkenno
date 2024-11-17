@@ -32,7 +32,8 @@ The following galleries stock some of my work:
 
 
 <h3>CV</h3>
-<a href="/cv" class="cv-link" target="_blank">My CV</a>
+<a href="/cv">My CV</a>
+<a href="/cv" class="cv-link">My CV</a>
 
 
 <h3>About my work</h3>
