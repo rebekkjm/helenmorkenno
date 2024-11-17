@@ -3,7 +3,7 @@ layout: product
 title:  "Beginnings I, II and III"
 order: 2
 #fullwidth: true
-image: "beginnings_I_II_III.jpg"
+image: "beginnings_1_2_3.jpg"
 ---
 
 
