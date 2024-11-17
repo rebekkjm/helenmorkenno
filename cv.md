@@ -6,7 +6,7 @@ permalink: /cv/
 
 ### Education
 
-**2009-2012** Bath Spa University, England: MA Design – Ceramics
+**2009-2012** Bath Spa University, England: MA Design – Ceramics  
 **2004-2008** Glasgow School of Art, Scotland: BA Ceramics
 
 ### Selected exhibitions
@@ -36,7 +36,7 @@ permalink: /cv/
 **2007** Nine on line, Atrium Gallery, Glasgow, UK  
 
 Curated group exhibitions, including at Vestfold Kunstsenter and Kunsthåndverkerne i Kongensgate in Oslo. 
-Sales from art centers and quality galleries in Norway and the United Kingdom.
+Sales from kunstsentere and quality galleries in Norway and the United Kingdom.
 
 ### Public art and projects
 
@@ -67,13 +67,13 @@ Sales from art centers and quality galleries in Norway and the United Kingdom.
 **2020** Instagram with Kat Coroy  
 **2018** Mosaic techniques (1 week), Muralverkstedet, Oslo  
 **2015-2016** Artists as Entrepreneurs. Course with Margrete Bak, Buskerud kunstsenter and online  
-**2014** Randi Beck, intaglio, Stokke  
+**2014** Randi Beck, Intaglio, Stokke  
 **2012** Peter Beard, Ceramics Surface Techniques, Warwickshire, UK  
 
 
 ### Grants
 
-**2025** Granted an artist residency (4 weeks), Vadsø (Finnmark fylkeskommunes gjesteatelier)  
+**2025** Artist residency (4 weeks), Vadsø (Finnmark fylkeskommunes gjesteatelier)  
 **2022** Vestfold Kunstsenters stipend from Bildende Kunstneres Hjelpefond  
 **2015** Statens utstillingsstipend  
 **2013** Statens diversestipend for nyutdannede kunstnere  
@@ -86,17 +86,17 @@ Olsgaard studio cooperative
 
 ### Positions
 
-**2019–2026** Chair, Norway’s National Examination Board for the Ceramics Trade  
+**2019–2026** Head, Norway’s National Examination Board for Ceramics (prøvenemda)  
 **2021–2025** Election Committee, NK Sør and Vestfold kunstsenter  
-**2018–2022** Chair and General Manager, Olsgaard Studio Collective, Tønsberg  
+**2018–2022** Board and Manager, Olsgaard Studio Collective, Tønsberg  
 Preparatory work for the new curriculum in upper secondary education (ceramics), Utdanningsdirektoratet (completed)  
 
 ### Other Relevant Work
 
 **2022/23/24/25** *Lyslek*, production for Den kulturelle skolesekken, tour in Viken, Vestfold, Telemark, Vestland, Asker, Senja, Møre, and others  
-**2022** Art mediator for Nasjonalmuseet, Den kulturelle skolesekken, Innlandet  
-**2019-2022** Art mediator for Den kulturelle skolesekken, Viken  
-**2020** (canceled due to COVID): Art mediator for Østlandsutstillingen 2020, Buskerud Kunstsenter  
-**2018** *Se hvordan kunsthåndverk blir til* Pottery workshop with children and presentation of process images in connection with Norske Kunsthåndverkere Annual Exhibition 2018, Fredrikstad. Organized by NKSØ.  
+**2022** Art communicator for Nasjonalmuseet, Den kulturelle skolesekken, Innlandet  
+**2019-2022** Art communicator for Den kulturelle skolesekken, Viken  
+**2020** (cancelled due to COVID): Art communicator for Østlandsutstillingen 2020, Buskerud Kunstsenter  
+**2018** *Se hvordan kunsthåndverk blir til* Pottery workshop for Norske Kunsthåndverkere Annual Exhibition 2018, Fredrikstad. Organized by NKSØ.  
 **2017** *Firing up*, art project with 5th-7th grade, Tønsberg Montessoriskole  
-**2017** Chandelier art project with beach waste, 8th grade, Teigar ungdomsskole  
+**2017** Chandelier art project with marine waste, 8th grade, Teigar ungdomsskole  
