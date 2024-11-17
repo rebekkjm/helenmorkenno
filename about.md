@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-Decorative lighting can transform a space. I love to create for specific rooms, so please don’t hesitate to contact me if you have an idea or would like to commission something special.
 
 <h3>Follow me</h3>  
 <a href="https://www.facebook.com/helenmorkenporcelain/" target="_blank">Facebook</a>  
