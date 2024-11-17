@@ -15,19 +15,18 @@ Decorative lighting can transform a space. I love to create for specific rooms, 
 <h3>Phone</h3>    
 [+47 934 40 309](tel:+4793440309)  
 
-<h3>Studios</h3>    
-Olsgård Atelierfelleskap, Gauterødveien 2, 3154 Tønsberg, Norway  
-Morkelveien 6, 3157 Barkåker, Norway  
+<h3>Studio</h3>    
+Olsgård Atelierfelleskap, Gauterødveien 2, 3154 Tønsberg, Norway
 
 <h3>Sales</h3>  
 The following galleries stock some of my work:  
-* Bærum Kunsthåndverk, Verksgata 11, Bærums Verk
+* Vestfold Kunstsenter, Øvre Langgate 71a, Tønsberg
 * Buskerud Kunstsenter, Union Scene, Grønland 60, Drammen
-* Østfold Kunstsenter, Fergestedsveien 5b, 1606 Fredrikstad
-* Vestfold Kunstsenter, Øvre Langgate 28, Tønsberg
 * Kunstmuseet Nord-Trøndelag
 * Kunstbanken, Hamar
-* Galleri Villvin, Risør
+* Gallerii, Tønsberg Torv
+* Galleri Fjordheim, Biri
+* Galleri Giga, Osen 2, Stord
 * Galleri Smalgangen, Åsgårdstrand
 * Hå Gamle Prestegård, Jæren
 
