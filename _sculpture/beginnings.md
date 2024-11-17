@@ -10,4 +10,4 @@ image: "beginnings_1_2_3.jpg"
 
 
 ![Porcelain and stoneware clays, approx. 15x10cm]({{ site.github.url }}/img/beginnings_1_2_3.jpg)
-*Porcelain and stoneware clays, approx. 15x10cm*
+*Porcelain and stoneware clays, approx. 15x10 cm*
