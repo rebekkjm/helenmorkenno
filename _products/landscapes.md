@@ -35,3 +35,9 @@ A magical world in a box  – you make the story.
 
 *Price NOK 6000*
 
+![Backlit porcelain landscape diorama]({{ site.github.url }}/img/reflections_1.jpg)
+![Backlit porcelain landscape diorama]({{ site.github.url }}/img/reflections_2.jpg)
+
+**Reflections** *(35 x 35 x 10 cm) Porcelain, plywood, LED*
+
+
