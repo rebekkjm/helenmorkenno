@@ -61,7 +61,7 @@ Sales from art centers and quality galleries in Norway and the United Kingdom.
 **2015** La Lampe Céramique, Musée de Carouge, p.25  
 **2007** Möbius I in Ceramic Review 228  
 
-###Courses
+### Courses
 
 **2022** Woodcut with Suzannah Øistad, grafisk verksted Sandefjord kurbad  
 **2020** Instagram with Kat Coroy  
