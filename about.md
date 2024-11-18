@@ -35,7 +35,7 @@ The following galleries stock some of my work:
 * Galleri Smalgangen, Åsgårdstrand
 * Hå Gamle Prestegård, Jæren  
   
-  
+<h3>CV</h3>  
 <a href="/cv">My CV</a>
 
 ![Helen Mørken]({{ site.github.url }}/img/about_bw.jpg)
