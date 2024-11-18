@@ -34,7 +34,7 @@ The following galleries stock some of my work:
 * Galleri Giga, Osen 2, Stord
 * Galleri Smalgangen, Åsgårdstrand
 * Hå Gamle Prestegård, Jæren  
-
+  
   
 <a href="/cv">My CV</a>
 
