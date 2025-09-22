@@ -8,7 +8,7 @@ Columns of light with impressed or embossed designs.
 
 *Porcelain and black stoneware. E14 bulb socket, 1.5 m textile covered flex with switch and plug.*
 
-*Price NOK 1950.*
+*Price NOK 2200.*
 
 ![Five cylinder shaped table lamps with abstract patterns]({{ site.github.url }}/img/Table_cylinders5.jpg)
 
