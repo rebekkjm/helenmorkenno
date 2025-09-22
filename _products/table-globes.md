@@ -14,7 +14,7 @@ Magical balls of light
 This is a story about life. Imagine each patch is a personal experience. Patches overlap in a way that is unique to you, there are holes and rough edges, vulnerable and naked but lit from within – your story.  
 *Porcelain and black stoneware. 13 cm diameter.*
 
-*Price NOK 2000*
+*Price NOK 2200*
 
 ![Perforated porcelain globe shaped table lamp]({{ site.github.url }}/img/Table_globes1.jpg)
 
@@ -23,4 +23,4 @@ This is a story about life. Imagine each patch is a personal experience. Patches
 **Globe**  
 *Porcelain and black stoneware; 15 cm or 20 cm diameter; 1.5 m off-white or black and white flex with switch and plug; E14 bulb socket.*
 
-*Price NOK 1700 (15 cm) and NOK 2000 (20 cm)*
+*Price NOK 2000 (15 cm) and NOK 2400 (20 cm)*
