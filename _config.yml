@@ -7,19 +7,19 @@ collections:
     porcelain:
         output: true
         permalink: /:path/
-    sculpture:
+    ceramics:
         output: true
-        permalink: /sculpture/:path/
-    publicart:
+        permalink: /ceramics/:path/
+    prints:
         output: true
-        permalink: /publicart/:path/
+        permalink: /prints/:path/
 navigation:
     - title: Porcelain
       url: /
-    - title: Sculpture
-      url: /sculpture/
-    - title: Public Art
-      url: /publicart/
+    - title: Ceramics
+      url: /ceramics/
+    - title: Prints
+      url: /prints/
     - title: About
       url: /about/
 # Build settings
