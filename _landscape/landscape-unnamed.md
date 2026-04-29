@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Untitled"
+title: "Mountain Mist"
 order: 7
 image: "landscape_unnamed.jpg"
 ---
