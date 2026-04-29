@@ -8,13 +8,34 @@
         </div>
         <ul class="header-links">
             {% for item in site.navigation %}
-                {% assign class = nil %}
-                {% if page.url == item.url %}
-                    {% assign class = 'active' %}
+                {% if item.children %}
+                    {% assign is_active_parent = false %}
+                    {% for child in item.children %}
+                        {% if page.url == child.url %}
+                            {% assign is_active_parent = true %}
+                        {% endif %}
+                    {% endfor %}
+                    <li class="has-dropdown{% if is_active_parent %} active{% endif %}">
+                        <button class="dropdown-toggle">{{ item.title }} &#9662;</button>
+                        <ul class="dropdown">
+                            {% for child in item.children %}
+                                {% assign child_class = nil %}
+                                {% if page.url == child.url %}
+                                    {% assign child_class = 'active' %}
+                                {% endif %}
+                                <li><a class="{{ child_class }}" href="{{ child.url }}">{{ child.title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                {% else %}
+                    {% assign class = nil %}
+                    {% if page.url == item.url %}
+                        {% assign class = 'active' %}
+                    {% endif %}
+                    <li>
+                        <a class="{{ class }}" href="{{ item.url }}">{{ item.title }}</a>
+                    </li>
                 {% endif %}
-            <li>
-                <a class="{{ class }}" href="{{ item.url }}">{{ item.title }}</a>
-            </li>
             {% endfor %}
         </ul>
     </div>

@@ -5,7 +5,7 @@ layout: default
 <div class="content">
 
     <ul class="image-links">
-        {% assign products = site.products | sort: 'order' %}
+        {% assign products = site.porcelain | sort: 'order' %}
         {% for product in products %}
 
             {% if product.fullwidth != true %}

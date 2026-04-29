@@ -140,3 +140,54 @@ h3 {
 .cv-link {
     font-size: 1.3em;
 }
+
+.has-dropdown {
+    position: relative;
+}
+
+.dropdown-toggle {
+    background: none;
+    border: 0;
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+    padding: 0;
+}
+
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #F6F6F6;
+    border: 1px solid #E5E5E5;
+    padding: .4em 0;
+    min-width: 8em;
+    z-index: 10;
+    list-style: none;
+}
+
+.dropdown li a {
+    display: block;
+    padding: .4em 1em;
+    text-decoration: none;
+}
+
+.dropdown li a:hover {
+    background: #EFEFEF;
+}
+
+.dropdown li a.active {
+    border-bottom: 2px solid #ca8b8d;
+}
+
+.has-dropdown.open > .dropdown {
+    display: block;
+}
+
+@media (min-width: 30em) {
+    .has-dropdown:hover > .dropdown,
+    .has-dropdown:focus-within > .dropdown {
+        display: block;
+    }
+}

@@ -7,9 +7,15 @@ collections:
     porcelain:
         output: true
         permalink: /:path/
-    ceramics:
+    sculpture:
         output: true
-        permalink: /ceramics/:path/
+        permalink: /sculpture/:path/
+    publicart:
+        output: true
+        permalink: /publicart/:path/
+    landscape:
+        output: true
+        permalink: /landscape/:path/
     prints:
         output: true
         permalink: /prints/:path/
@@ -17,10 +23,22 @@ navigation:
     - title: Porcelain
       url: /
     - title: Ceramics
-      url: /ceramics/
+      children:
+        - title: Sculpture
+          url: /sculpture/
+        - title: Landscape
+          url: /landscape/
     - title: Prints
       url: /prints/
-    - title: About
-      url: /about/
+    - title: More
+      children:
+        - title: About
+          url: /about/
+        - title: Public Art
+          url: /publicart/
+        - title: Contact
+          url: /contact/
+        - title: Socials
+          url: /socials/
 # Build settings
 markdown: kramdown
